@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "17515048996",
+    "project_id": "testingfastlane-6e537",
+    "storage_bucket": "testingfastlane-6e537.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:17515048996:android:f8cc4c7994782f9da4a8b1",
+        "android_client_info": {
+          "package_name": "com.rn_fastlane"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "17515048996-8m87p03tao57on1nfhe0qc58t61co1de.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.rn_fastlane",
+            "certificate_hash": "2d2ed273a4802183d5d263940dd38aac4f842f35"
+          }
+        },
+        {
+          "client_id": "17515048996-jfqcpbvsmj7rkf8m155n5k8fftemihmj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC8RzaE73YuBdmpxfkYb38cqOlzX2w2cW0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "17515048996-jfqcpbvsmj7rkf8m155n5k8fftemihmj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
